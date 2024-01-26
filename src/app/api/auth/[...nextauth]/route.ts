@@ -1,0 +1,2 @@
+// IMPORTING AND EXPORTING AT THE SAME TIME
+export { GET, POST } from "@/auth";
